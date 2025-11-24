@@ -4,7 +4,7 @@ This project analyzes financial performance and operational efficiency using sta
 
 ## Key Features
 
-### Financial performance metrics:
+Financial performance metrics:
 - Net Income, Operating Margin, Cost-to-Revenue Ratio, Operational Cost Efficiency
 
 - K-Means Clustering to segment organizations by transparency and risk tolerance
