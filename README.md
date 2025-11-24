@@ -25,7 +25,7 @@ Regression Modeling for predicting cost efficiency using:
 
 * Bagging Regressor
 
-* Exploratory data analysis, correlations, and visualization
+Exploratory data analysis, correlations, and visualization
 
 ## Tools & Technologies
 
