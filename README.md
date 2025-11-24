@@ -1,4 +1,4 @@
-# Financial-Management-Analytics
+# Financial-Management-Analysis
 
 This project analyzes financial performance and operational efficiency using statistical methods, clustering techniques, and multiple machine learning regression models. The goal is to understand cost structures, transparency levels, risk profiles, and efficiency metrics across organizations.
 
