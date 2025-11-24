@@ -11,7 +11,7 @@ This project analyzes financial performance and operational efficiency using sta
 
 - Regression Modeling for predicting cost efficiency using:
 
-* Linear Regression
+** Linear Regression
 
 * Polynomial Regression
 
