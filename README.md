@@ -11,19 +11,19 @@ This project analyzes financial performance and operational efficiency using sta
 
 - Regression Modeling for predicting cost efficiency using:
 
--- Linear Regression
+- Linear Regression
 
--- Polynomial Regression
+- Polynomial Regression
 
--- Decision Tree
+- Decision Tree
 
--- Random Forest
+- Random Forest
 
--- Gradient Boosting
+- Gradient Boosting
 
--- AdaBoost
+- AdaBoost
 
--- Bagging Regressor
+- Bagging Regressor
 
 - Exploratory data analysis, correlations, and visualization
 
