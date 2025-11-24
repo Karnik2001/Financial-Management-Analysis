@@ -9,9 +9,9 @@ This project analyzes financial performance and operational efficiency using sta
 
 - K-Means Clustering to segment organizations by transparency and risk tolerance
 
-- Regression Modeling for predicting cost efficiency using:
+Regression Modeling for predicting cost efficiency using:
 
-** Linear Regression
+* Linear Regression
 
 * Polynomial Regression
 
